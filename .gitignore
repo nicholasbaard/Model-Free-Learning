@@ -1,5 +1,5 @@
 # files / types
-*.png
+results/*.png
 src/monte_carlo_es.py
 src/environment.py
 
