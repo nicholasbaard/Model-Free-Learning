@@ -1,3 +1,8 @@
+# files / types
+*.png
+src/monte_carlo_es.py
+src/environment.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
